@@ -1,4 +1,4 @@
-# Task 1 - Remnder a large list using a FlatList
+# Task 1 - Render a large list using a FlatList
 
 * ReactNative
 * 100,000 rows of data
