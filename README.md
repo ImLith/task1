@@ -4,6 +4,7 @@
 * 100,000 rows of data
 * Using FlatList
 * Optimized
+* TypeScript
 
 # The data
 
